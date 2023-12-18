@@ -1,0 +1,34 @@
+{
+    "triggerbot": {
+        "enable_triggerbot": true,
+        "trigger_hotkey": "0xA0",
+        "trigger_delay": 40,
+        "base_delay": 0.0168,
+        "color_tolerance": 70,
+        "always_enabled": false
+    },
+    "aimbot": {
+        "enable_aimbot": true,
+        "enable_rcs": false,
+        "x_only": false,
+        "aimbot_hotkey": "0xA0",
+        "experimental_filtering": false,
+        "anti_astra": false,
+        "x_fov": 41,
+        "y_fov": 30,
+        "cop": 1,
+        "x_speed": 0.44,
+        "y_speed": 0.5,
+        "custom_yoffset": 0
+    },
+    "instantlocker": {
+        "enable_instantlocker": false,
+        "region": "eu",
+        "preferred_agent": "jett"
+    },
+    "arduino_settings": {
+        "monitor_id": 0,
+        "com_port": "COM5",
+        "serial_id": "115200"
+    }
+}

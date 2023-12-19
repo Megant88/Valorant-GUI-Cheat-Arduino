@@ -46,7 +46,12 @@ Im confident enough to say that this can sit on the same table as many native ba
 
 to compile with nuitka  use ```nuitka --disable-console --onefile --enable-plugin=tk-inter - main.py```
 
-Feel free to experiment with the source.
+Feel free to experiment with the source, in case you have trouble with it I am available for help. But I recommend troubleshooting by yourself before coming to me, or alternative checking unknowncheats for more.
+- https://www.unknowncheats.me/forum/valorant/613998-source-complex-python-gui-valorant-cheat.html
 
+# Eductional Purpose
+This project is for educational purpose only, it is proof of concept for high level cheating techniques which dont rely on memory access.
+I am not responsible for any third person use of this release, do with it what you want.
 
+But if this helped you please star the repo and checkout my UC Profile, and if you used some of my code in your project lmk, i'd love to see my work function in your project. I can even help
 
